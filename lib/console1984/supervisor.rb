@@ -1,4 +1,4 @@
-require 'rails/console/app'
+require "active_support/all"
 
 # Entry point to the system. In charge of installing everything
 # and starting and stopping sessions.
